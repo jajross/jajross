@@ -4,4 +4,4 @@
 - 💞️ I’m happy to collaborate on a Real-World Optimisation problem whilst I am completing my ```PhD```
 - 📫 Feel free to contact me at [```joseph.ross@plymouth.ac.uk```](mailto:joseph.ross@plymouth.ac.uk)
 
-- 💼 Currently working with [```@Sh3ps```](https://github.com/Sh3ps) on a joint project to make the internet safer for everyone. [```@inspiringjoe```](https://github.com/Sh3ps)
+- 💼 Currently Director of the the South West Cyber Resilience Centre
